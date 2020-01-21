@@ -2,7 +2,7 @@
 
 - The goal of this project is to morph an image of one person's face into another person's face. 
 
-- A morph is a simultaneous warp of the image shape and a cross-dissolve of the image colors.The warp is controlled by
+- A morph is a simultaneous warp of the image shape and a cross-dissolve of the image colors. The warp is controlled by
   defining a correspondence between the two pictures. The correspondence should map eyes to eyes, mouth
   to mouth, chin to chin, ears to ears, etc., to get the smoothest transformations possible.
 
