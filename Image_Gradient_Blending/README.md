@@ -20,8 +20,6 @@ Background Image:
 
 ![Background Image](Images/1_background.jpg)
 
-- The resulting blended image is displayed below.
-
 Resulting Blended Image:
 
 ![Resulting Blended Image](Images/Minnion_result.jpg)
