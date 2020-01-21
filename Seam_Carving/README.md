@@ -24,3 +24,8 @@
  
  ![](Images/sfo_20.gif)
 
+25 horizontal and vertical seams removed:
+
+ ![](Images/person_25.gif)
+ 
+ ![](Images/sfo_25.gif)
