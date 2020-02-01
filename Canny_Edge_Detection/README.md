@@ -10,8 +10,7 @@
 
 - An example is shown below for two images.
 
-![](Images/123.jpg), ![](Images/result123.jpg)
-
-
-![](Images/3096.jpg), ![](Images/result3096.jpg)
-
+Original Image          |  Edges Detected in Image
+:-------------------------:|:-------------------------:
+![](Images/123.jpg)        |  ![](Images/result123.jpg)
+![](Images/3096.jpg) | ![](Images/result3096.jpg)
